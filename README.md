@@ -1,5 +1,5 @@
 
-  # Mobile UI for BAHARA App (Copy)
+  # Mobile  BAHARA App 
 
   This is a code bundle for Mobile UI for BAHARA App (Copy). The original project is available at https://www.figma.com/design/CrzoXwMlx1iSzEfVtPDT56/Mobile-UI-for-BAHARA-App--Copy-.
 
